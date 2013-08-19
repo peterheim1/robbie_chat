@@ -1,0 +1,19 @@
+<package>
+  <description brief="howie_ros">
+
+     howie_ros
+
+  </description>
+  <author>peter</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/howie_ros</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="festival" />
+  <depend package="pocketsphinx" />
+
+</package>
+
+

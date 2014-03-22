@@ -9,7 +9,7 @@ add more topics
 
 '''
 
-import roslib; roslib.load_manifest('howie_ros')
+import roslib; roslib.load_manifest('robbie_chat')
 import rospy
 from festival.srv import *
 from std_msgs.msg import String
